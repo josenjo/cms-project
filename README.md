@@ -22,6 +22,7 @@ This project uses [`next/font`](https://nextjs.org/docs/app/building-your-applic
 
 ## Email and Password for Login
 Email: admin@example.com
+
 Password: password
 
 ## Learn More
